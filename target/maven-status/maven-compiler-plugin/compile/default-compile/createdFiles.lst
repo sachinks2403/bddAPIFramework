@@ -1,0 +1,8 @@
+pojo\API.class
+pojo\WebAutomation.class
+pojo\Course.class
+pojo\AddPlace.class
+pojo\GetCourse.class
+pojo\Location.class
+pojo\AddPlaceResponse.class
+pojo\Mobile.class
